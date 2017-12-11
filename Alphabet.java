@@ -9,6 +9,7 @@ int i;
 n=s.next().charAt(0);
 if(Character.isLetter(n))
 System.out.println("alphabet");
-
+else
+     System.out.println("not");
  }
 }
